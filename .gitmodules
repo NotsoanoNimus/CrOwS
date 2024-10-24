@@ -1,12 +1,6 @@
 [submodule "src/boot/mbr/syslinux"]
 	path = src/boot/mbr/syslinux
 	url = https://github.com/NotsoanoNimus/syslinux
-[submodule "src/boot/uefi/gnu-efi"]
-	path = src/boot/uefi/gnu-efi
-	url = https://github.com/ncroxon/gnu-efi
-[submodule "src/include/boot/uefi/gnu-efi"]
-	path = src/include/boot/uefi/gnu-efi
-	url = https://github.com/ncroxon/gnu-efi
 [submodule "deps/MFTAH"]
 	path = deps/MFTAH
 	url = https://github.com/NotsoanoNimus/MFTAH
