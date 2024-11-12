@@ -53,4 +53,6 @@ I'm not trying to be unique or build the next Linux. My goal for this project is
 
 In my mind, while I'm trying to avoid being *NIX-like, I sort of conceptualized a Tails+Kali hybrid system but with direct and full control in a different flavor.
 
-Truthfully, I skipped plenty of work with boot sectors and system initialization because several educational, secure, and/or featured solutions already exist to do the same thing. I don't have an interest in Legacy BIOS, but I _do_ have an interest in UEFI (though both are supported here).
+~~Truthfully, I skipped plenty of work with boot sectors and system initialization because several educational, secure, and/or featured solutions already exist to do the same thing. I don't have an interest in Legacy BIOS, but I _do_ have an interest in UEFI (though both are supported here).~~
+
+The above statement has been retracted on account of spending the first month of project development on the encrypted image loader for UEFI and Legacy boots. 😎
