@@ -1,0 +1,6 @@
+This is a generic help entry for CrOwS and MFTAH booting.
+
+It should ideally describe how the system works, in detail, and explain to the user how he/she can create more images.
+
+TODO TODO
+TODO

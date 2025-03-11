@@ -52,6 +52,11 @@ Mkfile.old
 dkms.conf
 
 
+# CUSTOM
+**/*.ELF
+**/*.elf
+
+
 # Various IDEs (because I am not always a based NeoVim enjoyer)
 **/.vscode
 **/.idea
